@@ -8,10 +8,22 @@ namespace ConsoleApp
 {
     class Program
     {
+        public void fact(int n)
+        {
+            int fact = 1;
+            for (int i = 1; i <= n; i++)
+            {
+                fact = fact * i;
+            }
+            Console.WriteLine("The factorial of the number "+n+" is "+ fact);
+            Console.ReadLine();
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("First Change");
-            Console.WriteLine("Second Change");
+            Console.WriteLine("Enter the number");
+            int n = int.Parse(Console.ReadLine());
+            Program p1 = new Program();
+            p1.fact(n);
         }
     }
 }
