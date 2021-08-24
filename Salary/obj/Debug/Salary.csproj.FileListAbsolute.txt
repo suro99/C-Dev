@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MindTec_trainees\Salary\bin\Debug\Salary.exe.config
+C:\Users\user\Desktop\MindTec_trainees\Salary\bin\Debug\Salary.exe
+C:\Users\user\Desktop\MindTec_trainees\Salary\bin\Debug\Salary.pdb
+C:\Users\user\Desktop\MindTec_trainees\Salary\obj\Debug\Salary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MindTec_trainees\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MindTec_trainees\Salary\obj\Debug\Salary.exe
+C:\Users\user\Desktop\MindTec_trainees\Salary\obj\Debug\Salary.pdb
